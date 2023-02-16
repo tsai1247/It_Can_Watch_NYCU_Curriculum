@@ -1,0 +1,7 @@
+__pycache__*
+.env
+*.spec
+build*
+dist*
+account
+*.json
